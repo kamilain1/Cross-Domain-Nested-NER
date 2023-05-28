@@ -1,7 +1,7 @@
 /.idea/
-/weights/model_best_common_labels_bertbase_cnn_8965.pkl
+#/weights/model_best_common_labels_bertbase_cnn_8965.pkl
 /weights/model_best_common_labels_bertbase_nocnn_8834.pkl
-/weights/model_best_common_labels_berttiny_cnn_8036.pkl
+#/weights/model_best_common_labels_berttiny_cnn_8036.pkl
 /weights/model_best_common_labels_berttiny_nocnn_7552.pkl
 /weights/model_best_nerel_bertbase_8508.pkl
 /weights/model_best_nerel_berttiny_7622.pkl
