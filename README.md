@@ -19,4 +19,4 @@ Source domain: [NEREL (Loukachevitch et al., 2021)](https://arxiv.org/abs/2108.1
 Target domain: [NEREL-BIO (Loukachevitch et al., 2022)](https://arxiv.org/abs/2210.11913)
 
 ## Results and further changes:
-Drop in performance compared to the usual training approach (-6.23 % F1 on average per each category). However this approach does not require fine-tuning on target domain dataset. Further improvement could be achieved by utilizing contrastive learning technique to solve category discrepancy between source and target domain datasets.
+Drop in performance compared to the usual training approach (-14.68 % micro F1). However, this approach does not require fine-tuning on target domain dataset. Further improvement could be achieved by utilizing contrastive learning technique to solve category discrepancy between source and target domain datasets.
