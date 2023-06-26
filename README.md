@@ -1,6 +1,7 @@
 # Cross-Domain-Nested-NER
 Proposed method allows cross-domain nested NER without any fine-tuning on target domain data.
 
+The work was presented at the student track of the Dialogue 2023 conference: [link](https://www.dialog-21.ru/dialogue2023/results/dopmat/2023/students/)
 ## Details:
 ### Backbone model - [CNN-NER (Yan et al., 2022)]( https://github.com/yhcc/CNN_Nested_NER)
 
